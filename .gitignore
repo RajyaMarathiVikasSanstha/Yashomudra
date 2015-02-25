@@ -1,0 +1,8 @@
+# Ignore Files
+# Font Binaries
+*.exe
+*.bak
+*.pfa
+*.cff
+*.inf
+*.zip
