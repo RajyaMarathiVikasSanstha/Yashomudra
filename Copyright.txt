@@ -1,15 +1,6 @@
-Copyright (C) 2012, 2013, 2014, 2015 Rajya Marathi Vikas Sanstha, Mumbai.
-Rajya Marathi Vikas Sanstha,
-Elphinston Technical Institute,
-3, Mahapalika Marg, Dhobi Talao, Mumbai- 400001.
-Telephone- 022-22653966, Fax- 022-22631325
-http://rmvs.maharashtra.gov.in/
-
-"Yashomudra" and "Yashovenu" with Reserved Font Names are open font format fonts developed by Centre for Development of Advance Computing (C-DAC) and made available to you by Rajya Marathi Vikas Sanstha, Govt. of Maharashtra, Mumbai. 
+﻿प्रतिमुद्राधिकार © २०१२, २०१३, २०१४, २०१५, राज्य मराठी विकास संस्था, मुंबई (http://rmvs.maharashtra.gov.in/)
+Copyright © 2012, 2013, 2014, 2015 Rajya Marathi Vikas Sanstha, Mumbai. (http://rmvs.maharashtra.gov.in/)
 
 These are made available under GPL 3 License. The font names "Yashomudra" and "Yashovenu" are hereby reserved.
-
-
-To reach to us, please contact us at:
 
 
